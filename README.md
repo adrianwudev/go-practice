@@ -5,3 +5,4 @@
 - Create Your Own Adventure
     - Functional Options Pattern
 - Link Parser
+- SiteMap
