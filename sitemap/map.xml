@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlSet xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <Value>https://gophercises.com/demos/cyoa/mark-bates</Value>
+  </url>
+  <url>
+    <Value>https://gophercises.com/demos/cyoa/home</Value>
+  </url>
+  <url>
+    <Value>https://gophercises.com/demos/cyoa/debate</Value>
+  </url>
+  <url>
+    <Value>https://gophercises.com/demos/cyoa/</Value>
+  </url>
+  <url>
+    <Value>https://gophercises.com/demos/cyoa/new-york</Value>
+  </url>
+  <url>
+    <Value>https://gophercises.com/demos/cyoa/denver</Value>
+  </url>
+  <url>
+    <Value>https://gophercises.com/demos/cyoa/sean-kelly</Value>
+  </url>
+  <url>
+    <Value>https://gophercises.com</Value>
+  </url>
+  <url>
+    <Value>https://gophercises.com/</Value>
+  </url>
+</urlSet>
