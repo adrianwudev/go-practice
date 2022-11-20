@@ -6,4 +6,6 @@
     - Functional Options Pattern
 - Link Parser
 - SiteMap
-- HackerRank CamelCase
+- HackerRank
+    - CamelCase
+    - Caesar Cipher
